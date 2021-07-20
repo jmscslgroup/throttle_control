@@ -7,9 +7,9 @@
 //
 // Code generated for Simulink model 'throttle_control'.
 //
-// Model version                  : 1.29
+// Model version                  : 1.41
 // Simulink Coder version         : 9.5 (R2021a) 14-Nov-2020
-// C/C++ source code generated on : Tue May 25 22:41:50 2021
+// C/C++ source code generated on : Mon Jul 19 23:03:07 2021
 //
 // Target selection: ert.tlc
 // Embedded hardware selection: Generic->Unspecified (assume 32-bit Generic)
